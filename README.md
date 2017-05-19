@@ -1,4 +1,4 @@
-# Minimalist starter web application using TypeScript, ExpressJS, Angular 2 and Webpack
+# Starter minimalist  web application using TypeScript, ExpressJS, Angular 2 and Webpack
 
 1. Automates the task with Webpack
 2. Both client and server are using TypeScript

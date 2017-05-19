@@ -1,0 +1,10 @@
+.vscode/
+build/
+.idea
+node_modules/
+.DS*
+._.*
+/public/javascripts/app.js
+/public/javascripts/polyfills.js
+/public/javascripts/vendor.js
+*.map
